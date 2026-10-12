@@ -1,0 +1,6 @@
+{
+  "name": "NammaRoute — Smart Bengaluru Commute Assistant",
+  "description": "Comprehensive commute planner, multi-modal cost calculator, community traffic alerts, and transit hub directory for Bengaluru commuters.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
